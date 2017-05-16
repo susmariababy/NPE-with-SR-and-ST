@@ -5,12 +5,12 @@ Athalye, A - Neural-style :		https://github.com/anishathalye/neural-style.
 Brock, A. J. - Neural-photo-editor.	https://github.com/ajbrock/Neural-Photo-Editor.
 Corochann - Seranet.	 		https://github.com/corochann/SeRanet.
 
-Super-Resolution and Neural Style have been incorporated into the A.J Brock's IAN based NPE for a comprehensive study of many deep neural models. This was done as part of my thesis ['Deep Neural Networks for Editing Images : A Comprehensive Study'](https://drive.google.com/open?id=0Byq90s170Ay2Nm93bEtRZmU1LVk).
+Super-Resolution and Neural Style have been incorporated into the IAN based NPE developed by A.J Brock for a comprehensive study of many deep neural models. This was done as part of my thesis ['Deep Neural Networks for Editing Images : A Comprehensive Study'](https://drive.google.com/open?id=0Byq90s170Ay2Nm93bEtRZmU1LVk).
 
-Download the imagenet-vgg-verydeep-19.mat file into the neural_style_master folder and the 'ian_simple.npz' file from Brock's [NPE] (https://drive.google.com/file/d/0B3_iVBZsC4GGck5WWWc0R0dvT1U/view) into the home folder before running the code.
+Download the imagenet-vgg-verydeep-19.mat file into the neural_style_master folder and the 'ian_simple.npz' file from Brock's [NPE](https://drive.google.com/file/d/0B3_iVBZsC4GGck5WWWc0R0dvT1U/view) into the home folder before running the code.
 
 Kindly go through the final chapter of the report 'Guide to the NPE GUI' for further instructions on how to use the GUI.
-A sample video is available [here] (https://drive.google.com/open?id=0Byq90s170Ay2ZHhDZ2dhVmFKY00) 
+A sample video is available [here](https://drive.google.com/open?id=0Byq90s170Ay2ZHhDZ2dhVmFKY00) 
 
 ###############################################################################################
 
