@@ -2,7 +2,9 @@ Neural Photo Editor with Super Resolution and Style Transfer
 This code is heavily borrowed from three sources :
 
 Athalye, A - Neural-style :		https://github.com/anishathalye/neural-style.
+
 Brock, A. J. - Neural-photo-editor.	https://github.com/ajbrock/Neural-Photo-Editor.
+
 Corochann - Seranet.	 		https://github.com/corochann/SeRanet.
 
 Super-Resolution and Neural Style have been incorporated into the IAN based NPE developed by A.J Brock for a comprehensive study of many deep neural models. This was done as part of my thesis ['Deep Neural Networks for Editing Images : A Comprehensive Study'](https://drive.google.com/open?id=0Byq90s170Ay2Nm93bEtRZmU1LVk).
