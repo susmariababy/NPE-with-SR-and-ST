@@ -1,0 +1,256 @@
+-------- training parameter --------
+GPU ID        : 0
+archtecture   : seranet_v1
+batch size    : 5
+epoch         : 1000
+color scheme  : rgb
+size          : 178
+------------------------------------
+
+train mean loss: 0.006199
+valid mean loss: 0.000788
+  epoch 1, test cost of best model 0.000762
+epoch 1 took 1747 sec
+train mean loss: 0.000801
+valid mean loss: 0.000683
+  epoch 2, test cost of best model 0.000658
+epoch 2 took 1745 sec
+train mean loss: 0.000732
+valid mean loss: 0.000625
+  epoch 3, test cost of best model 0.000599
+epoch 3 took 1745 sec
+train mean loss: 0.000710
+valid mean loss: 0.000598
+  epoch 4, test cost of best model 0.000572
+epoch 4 took 1744 sec
+train mean loss: 0.000638
+valid mean loss: 0.001081
+epoch 5 took 1683 sec
+train mean loss: 0.000650
+valid mean loss: 0.000585
+  epoch 6, test cost of best model 0.000558
+epoch 6 took 1745 sec
+train mean loss: 0.000602
+valid mean loss: 0.000558
+  epoch 7, test cost of best model 0.000533
+epoch 7 took 1745 sec
+train mean loss: 0.000593
+valid mean loss: 0.000623
+epoch 8 took 1683 sec
+train mean loss: 0.000636
+valid mean loss: 0.000543
+  epoch 9, test cost of best model 0.000518
+epoch 9 took 1744 sec
+train mean loss: 0.000579
+valid mean loss: 0.000571
+epoch 10 took 1683 sec
+train mean loss: 0.000579
+valid mean loss: 0.001481
+epoch 11 took 1683 sec
+train mean loss: 0.000597
+valid mean loss: 0.000531
+  epoch 12, test cost of best model 0.000506
+epoch 12 took 1744 sec
+train mean loss: 0.000550
+valid mean loss: 0.000522
+  epoch 13, test cost of best model 0.000496
+epoch 13 took 1744 sec
+train mean loss: 0.000566
+valid mean loss: 0.000522
+epoch 14 took 1682 sec
+train mean loss: 0.000536
+valid mean loss: 0.000527
+epoch 15 took 1682 sec
+train mean loss: 0.000535
+valid mean loss: 0.000546
+epoch 16 took 1682 sec
+train mean loss: 0.000538
+valid mean loss: 0.000512
+  epoch 17, test cost of best model 0.000486
+epoch 17 took 1743 sec
+train mean loss: 0.000532
+valid mean loss: 0.000518
+epoch 18 took 1682 sec
+train mean loss: 0.000519
+valid mean loss: 0.000543
+epoch 19 took 1683 sec
+train mean loss: 0.000523
+valid mean loss: 0.000500
+  epoch 20, test cost of best model 0.000475
+epoch 20 took 1744 sec
+train mean loss: 0.000521
+valid mean loss: 0.000499
+  epoch 21, test cost of best model 0.000474
+epoch 21 took 1744 sec
+train mean loss: 0.000526
+valid mean loss: 0.000498
+  epoch 22, test cost of best model 0.000473
+epoch 22 took 1744 sec
+train mean loss: 0.000504
+valid mean loss: 0.000496
+  epoch 23, test cost of best model 0.000471
+epoch 23 took 1744 sec
+train mean loss: 0.000515
+valid mean loss: 0.000510
+epoch 24 took 1684 sec
+train mean loss: 0.000504
+valid mean loss: 0.000499
+epoch 25 took 1683 sec
+train mean loss: 0.000504
+valid mean loss: 0.000623
+epoch 26 took 1688 sec
+train mean loss: 0.000501
+valid mean loss: 0.000600
+epoch 27 took 1686 sec
+train mean loss: 0.000507
+valid mean loss: 0.000498
+epoch 28 took 1689 sec
+train mean loss: 0.000497
+valid mean loss: 0.000496
+epoch 29 took 1690 sec
+train mean loss: 0.000497
+valid mean loss: 0.000492
+  epoch 30, test cost of best model 0.000468
+epoch 30 took 1751 sec
+train mean loss: 0.000501
+valid mean loss: 0.000533
+epoch 31 took 1690 sec
+train mean loss: 0.000484
+valid mean loss: 0.000489
+  epoch 32, test cost of best model 0.000465
+epoch 32 took 1753 sec
+train mean loss: 0.000488
+valid mean loss: 0.000505
+epoch 33 took 1691 sec
+train mean loss: 0.000488
+valid mean loss: 0.000492
+epoch 34 took 1690 sec
+train mean loss: 0.000489
+valid mean loss: 0.000488
+  epoch 35, test cost of best model 0.000463
+epoch 35 took 1752 sec
+train mean loss: 0.000476
+valid mean loss: 0.000494
+epoch 36 took 1690 sec
+train mean loss: 0.000478
+valid mean loss: 0.000498
+epoch 37 took 1692 sec
+train mean loss: 0.000489
+valid mean loss: 0.000483
+  epoch 38, test cost of best model 0.000458
+epoch 38 took 1754 sec
+train mean loss: 0.000486
+valid mean loss: 0.000552
+epoch 39 took 1691 sec
+train mean loss: 0.000467
+valid mean loss: 0.000483
+epoch 40 took 1689 sec
+train mean loss: 0.000474
+valid mean loss: 0.000493
+epoch 41 took 1689 sec
+train mean loss: 0.000473
+valid mean loss: 0.000482
+  epoch 42, test cost of best model 0.000458
+epoch 42 took 1748 sec
+train mean loss: 0.000470
+valid mean loss: 0.000488
+epoch 43 took 1687 sec
+train mean loss: 0.000471
+valid mean loss: 0.000486
+epoch 44 took 1685 sec
+train mean loss: 0.000473
+valid mean loss: 0.000593
+epoch 45 took 1691 sec
+train mean loss: 0.000460
+valid mean loss: 0.000485
+epoch 46 took 1695 sec
+train mean loss: 0.000466
+valid mean loss: 0.000494
+epoch 47 took 1688 sec
+train mean loss: 0.000473
+valid mean loss: 0.000491
+epoch 48 took 1689 sec
+train mean loss: 0.000452
+valid mean loss: 0.000531
+epoch 49 took 1686 sec
+train mean loss: 0.000469
+valid mean loss: 0.000549
+epoch 50 took 1689 sec
+train mean loss: 0.000453
+valid mean loss: 0.000531
+epoch 51 took 1688 sec
+train mean loss: 0.000455
+valid mean loss: 0.000491
+epoch 52 took 1687 sec
+train mean loss: 0.000455
+valid mean loss: 0.000483
+epoch 53 took 1687 sec
+train mean loss: 0.000450
+valid mean loss: 0.000536
+epoch 54 took 1686 sec
+train mean loss: 0.000452
+valid mean loss: 0.000502
+epoch 55 took 1688 sec
+train mean loss: 0.000448
+valid mean loss: 0.000483
+epoch 56 took 1686 sec
+train mean loss: 0.000449
+valid mean loss: 0.000483
+epoch 57 took 1686 sec
+train mean loss: 0.000446
+valid mean loss: 0.000484
+epoch 58 took 1686 sec
+train mean loss: 0.000440
+valid mean loss: 0.000491
+epoch 59 took 1685 sec
+train mean loss: 0.000451
+valid mean loss: 0.000488
+epoch 60 took 1686 sec
+train mean loss: 0.000439
+valid mean loss: 0.000492
+epoch 61 took 1685 sec
+train mean loss: 0.000438
+valid mean loss: 0.000483
+epoch 62 took 1686 sec
+train mean loss: 0.000435
+valid mean loss: 0.000518
+epoch 63 took 1685 sec
+train mean loss: 0.000447
+valid mean loss: 0.000495
+epoch 64 took 1687 sec
+train mean loss: 0.000435
+valid mean loss: 0.000488
+epoch 65 took 1686 sec
+train mean loss: 0.000430
+valid mean loss: 0.000489
+epoch 66 took 1686 sec
+train mean loss: 0.000439
+valid mean loss: 0.000486
+epoch 67 took 1686 sec
+train mean loss: 0.000427
+valid mean loss: 0.000514
+epoch 68 took 1687 sec
+train mean loss: 0.000433
+valid mean loss: 0.000495
+epoch 69 took 1686 sec
+train mean loss: 0.000427
+valid mean loss: 0.000579
+epoch 70 took 1686 sec
+train mean loss: 0.000424
+valid mean loss: 0.000537
+epoch 71 took 1685 sec
+train mean loss: 0.000423
+valid mean loss: 0.000518
+epoch 72 took 1686 sec
+train mean loss: 0.000422
+valid mean loss: 0.000488
+epoch 73 took 1685 sec
+train mean loss: 0.000428
+valid mean loss: 0.000511
+epoch 74 took 1686 sec
+train mean loss: 0.000424
+valid mean loss: 0.000495
+epoch 75 took 1686 sec
+train mean loss: 0.000421
+valid mean loss: 0.000487
+total training time took 129354 sec
