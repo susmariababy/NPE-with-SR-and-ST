@@ -462,32 +462,6 @@ def DNSR_v2():
     update_photo(IM, output)
     print 'oy'
 
-# Style Transfer
-def ST2():			# does not update at the intermediate steps
-    print 'in ST'
-    global IM, output
-    print IM.shape
-    print type(IM)
-    mshape = (2*64,2*64,1)             # or use (2*64,2*64,1) here and  4,1),4,2) in the next line
-    data = np.repeat(np.repeat(np.uint8(IM),2,1),2,2)
-    im = Image.fromarray(np.concatenate([np.reshape(data[0],mshape),np.reshape(data[1],mshape),np.reshape(data[2],mshape)],axis=2),mode='RGB')
-    im.save('neural_style_master/content_img.jpg')
-
-    for i in range(1):
-            print 'going to neural_style'
-	    neural_style.main()
-	    print 'back in NPE'
-	    IM = scipy.misc.imread('neural_style_master/output_img.jpg').transpose(2,0,1)  
-		                                      # transposes from numpy.ndarray (64, 64, 3) to (3, 64, 64)
-	    print IM.shape
-	    print type(IM)
-	    Reset(False)
-	    update_photo(IM, output)
-            os.remove('neural_style_master/content_img.jpg')
-            copyfile('neural_style_master/output_img.jpg', 'neural_style_master/content_img.jpg')
-            #os.rename('neural_style_master/output_img.jpg', 'neural_style_master/content_img.jpg')
-    print 'st'
-
 def ST():
     print 'in ST'
     global IM, output
@@ -546,7 +520,7 @@ def ST():
         content=content_image,
         styles=style_images,
         preserve_colors=False,
-        iterations=2500,
+        iterations=500,
         content_weight=10e0,
         content_weight_blend=1,
         style_weight=5e1,
